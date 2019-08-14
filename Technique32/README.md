@@ -1,0 +1,1 @@
+# Extending templates with functions

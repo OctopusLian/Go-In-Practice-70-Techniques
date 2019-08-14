@@ -1,0 +1,1 @@
+# Verify uploaded file is allowed type

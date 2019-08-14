@@ -1,0 +1,1 @@
+# Using interfaces for mocking or stubbing

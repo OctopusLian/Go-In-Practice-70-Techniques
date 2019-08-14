@@ -1,0 +1,1 @@
+# Generating email from templates

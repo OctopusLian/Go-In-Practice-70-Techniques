@@ -1,0 +1,1 @@
+# Avoiding CLI boilerplate code

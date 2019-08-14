@@ -1,0 +1,1 @@
+# Logging to an arbitrary writer
